@@ -12,6 +12,6 @@ Vs commands and steps:
     a. python app.py
 
 ******Demo Video****
-https://drive.google.com/file/d/1uTILxwKGfMz7sSOXDvOSwJJw8M_coxHZ/view?usp=sharing
+https://drive.google.com/file/d/1LKsko2IzryroG95WFtYz84vLZbLYBtY1/view?usp=sharing
 
 *****model h5 that you need to download and paste in model folder**** https://drive.google.com/file/d/1myNZ81feFok4rCyPYeWEP9KBpL0Y3fOt/view?usp=sharing 
